@@ -1,1 +1,1 @@
-
+Hi everyone my name is Sandesh Basnet. I am an student at Solidarity International Academy. I am learning Python and this are my python projects that I have done till now. Feel free to use the source code. Don't forget to visit my other repositories. Thank you for visiting our GitHub.
