@@ -3,7 +3,7 @@ computer_wins = 0
 user_wins = 0
 options = ["rock","paper","scissors"]
 while True:
-	user_pick = input("Chose one from Rock/Paper/Scissors or Q to Quit: ").lower()
+	user_pick = input("Chose one from Rock/paper/scissors or Q to Quit: ").lower()
 	
 	if user_pick == "q":
 		break

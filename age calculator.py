@@ -4,10 +4,10 @@ age_input = int(input("In which year were you born: "))
 in_which_year = input("In which date BS or AD: ")
 # using if and elif statement to find the result
 if in_which_year == "AD":
-    ad_year = 2021 - age_input
+    ad_year = 2022 - age_input
     print("You are",ad_year,"year old." )
 elif in_which_year == "BS":
-    bs_year = 2077 - age_input
+    bs_year = 2079 - age_input
     print("You are",bs_year,"year old." )
 elif in_which_year == "bs":
     print("Please type in Capital Letter")
